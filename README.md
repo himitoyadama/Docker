@@ -1,4 +1,6 @@
 # UsingDocker
+Got permission denied while trying to connect to the Docker daemon socket at 解決方法
+https://qiita.com/Nw3965/items/8e75da0012cb7a451cc2
 
 Docker DesktopでWSLの統合を有効にしているのに「`The command 'docker-compose'～」への対応法
 https://zenn.dev/masa20210102/articles/48775049baf8c4
