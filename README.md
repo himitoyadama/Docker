@@ -1,4 +1,7 @@
 # UsingDocker
+【速攻】DockerでMySQLとphpMyAdminのコンテナ作成
+https://zenn.dev/peishim/articles/f7a76ae6c253e4
+
 【Docker】PHP＋MySQL＋phpMyAdminの環境構築メモ
 https://qiita.com/monji586/items/f41695201c46ed23ff53
 
