@@ -1,4 +1,7 @@
 # UsingDocker
+Dockerを跡形も無く消して入れ直してみた
+https://blog.mamansoft.net/2017/11/28/reinstall-docker/
+
 Dockerイメージ、ボリューム、コンテナを簡単に削除する方法
 https://kinsta.com/jp/blog/docker-remove-images/#:~:text=docker%20container%20prune%20%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%82%92,%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82&text=%E3%81%93%E3%81%AE%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%A7%E5%89%8A%E9%99%A4%E3%81%A7%E3%81%8D%E3%82%8B,%E4%B8%AD%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A%E3%81%AE%E3%81%BF%E3%81%A7%E3%81%99%E3%80%82
 
